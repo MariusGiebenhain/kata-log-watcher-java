@@ -24,5 +24,5 @@ Then, things start to get complicated as new requirements gradually come in.
   If more than 10 errors pile up, he needs to be notified via all available channels.
 
   
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/modernSE/kata-log-watcher-java)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/MariusGiebenhain/kata-log-watcher-java)
 
